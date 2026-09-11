@@ -15,7 +15,7 @@ The Extended Library picks up after the [Core Library](core-library.md) (CM-A–
 | ![CM-N](../assets/images/cm/cm-n.webp){ width="140" } | **[CM-N](cm-n.md)** | Dual wielding — beginner | Full written notation on this site |
 | ![CM-O](../assets/images/cm/cm-o.webp){ width="140" } | **[CM-O](cm-o.md)** | Musashi vs. Tanaka | Full written notation on this site |
 | ![CM-P](../assets/images/cm/cm-p.webp){ width="140" } | **[CM-P](cm-p.md)** | Dooku vs. Anakin (continued) | Full written notation on this site |
-| ![CM-Q](../assets/images/cm/cm-q.webp){ width="140" } | **CM-Q** | Dual wielding — advanced (Ahsoka vs. Anakin) | [Video lesson](https://sabercraft.org/cm-q-ahsoka-vs-anakin-ahsoka/) |
+| ![CM-Q](../assets/images/cm/cm-q.webp){ width="140" } | **[CM-Q](cm-q.md)** | Dual wielding — advanced (Ahsoka vs. Anakin) | Full written notation on this site |
 | ![CM-R](../assets/images/cm/cm-r.webp){ width="140" } | **[CM-R](cm-r.md)** | Avengers: Endgame (Ronin) | Full written notation on this site |
 | ![CM-S](../assets/images/cm/cm-s.webp){ width="140" } | **[CM-S](cm-s.md)** | Lock spins | Full written notation on this site |
 | ![CM-T](../assets/images/cm/cm-t.webp){ width="140" } | **[CM-T](cm-t.md)** | Flow spins and holds | Full written notation on this site |

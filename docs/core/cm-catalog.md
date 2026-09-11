@@ -29,7 +29,7 @@ Entire battles can be notated by any school and shared. From those fights, speci
 | **[N](cm-n.md)** | | Dual Wielding vs Single Saber — Beginner | Dual wielding vs single blade | | Extended | Cole Hemp |
 | **[O](cm-o.md)** | 101 | Space Samurai: Musashi vs Tanaka | TV: Westworld | Musashi, Tanaka | Extended | Amen Abdou, Alexis Adames |
 | **[P](cm-p.md)** | 91 | Anakin vs. Dooku | Star Wars Ep 3: Revenge of the Sith | Anakin, Dooku | Extended | Kristianna Jones |
-| **[Q](https://sabercraft.org/cm-q-ahsoka-vs-anakin-ahsoka/)** | | Dual Wielding vs Single Saber — Advanced | Ahsoka vs. Anakin | Ahsoka, Anakin (Vader) | Extended | GC Christopher, Tim Lynch |
+| **[Q](cm-q.md)** | | Dual Wielding vs Single Saber — Advanced | Ahsoka vs. Anakin | Ahsoka, Anakin (Vader) | Extended | GC Christopher, Tim Lynch |
 | **[R](cm-r.md)** | 102 | Ronin's battle — Avengers: Endgame | MCU: Endgame | Ronin, Hawkeye, Yakuza Boss | Extended | Luis Meurice |
 | **[S](cm-s.md)** | | Lock Spins | Original | | Extended | Spencer Jock |
 | **[T](cm-t.md)** | | Flow Spins in Action + Holds | Original | | Extended | Thom Timko, Mario Cubas |

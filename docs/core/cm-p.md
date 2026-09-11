@@ -150,4 +150,4 @@ The disarm at the end deserves its own note. A saber is taken from a partner who
 
 It is also worth naming what a written ending does for a performance. The notation did not need a new symbol to say that a fight is over — a fall, a saber down and a saber taken are written in the same cells as any other action. What the sequence gains is a shape: a beginning that opens with a kick, a middle that grinds through bashes, and an end that resolves. That is a scene rather than an exchange, and it is what the [Extended Library](extended-library.md) has been building toward.
 
-When CM-P is clean, continue to **[CM-Q](https://sabercraft.org/cm-q-ahsoka-vs-anakin-ahsoka/)**, or return to the [Extended Library](extended-library.md).
+When CM-P is clean, continue to **[CM-Q](cm-q.md)**, or return to the [Extended Library](extended-library.md).
