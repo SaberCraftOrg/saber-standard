@@ -19,13 +19,13 @@ CM-N is written in a single table.
 
 | Player | s1 | s2 | s3 | s4 | s5 | s6 | s7 |
 |---|---|---|---|---|---|---|---|
-| Saberist A | 11 | 3 | 7 | CW - L>R | 11 | 9 |  |
+| Saberist A | 11 | 3 | 7 | S CW | 11 | 9 |  |
 | Saberist B | 11P | 3P | 7P |  | 11P | 9P | 1© |
 
 Read down each column as usual. Saberist A's row is the one that reads differently from every other movement in the library.
 
 - **Saberist A holds two sabers.** `L` stands for the left hand and `R` for the right, the same letters [CM-K](cm-k.md) uses for the two ends of the staff. Which hand is working is part of the notation, not a detail left to the performer.
-- **`CW - L>R` is the transfer**, and it is the centre of the movement: a clockwise spin that moves the attack from the left hand to the right. It sits at step 4, dividing the sequence into three attacks before it and two after.
+- **`S CW` is the transfer**, and it is the centre of the movement: a clockwise spin, per the [Notation Legend](../notation/legend.md#body-and-movement-symbols), that moves the attack from the left hand to the right. It sits at step 4, dividing the sequence into three attacks before it and two after.
 - **Saberist B holds one saber and answers everything.** `11P`, `3P`, `7P`, then `11P` and `9P` — five parries against five attacks, with nothing written on the beat where Saberist A transfers.
 - **`©` is a complete**, taught in [CM-C](cm-c-part-2.md). Saberist B's `1©` at step 7 is the only attack in that row, it carries through rather than stopping, and nothing is written for Saberist A against it.
 - **The target numbers are unchanged.** An `11` is an 11 whichever hand throws it, and an `11P` is the same parry it has always been. Two sabers add a question the notation has to answer — which hand — and change nothing else.
@@ -41,7 +41,7 @@ What changes is what the Saberists have to do.
 
 For Saberist A the difficulty is the off hand. Most people can strike an 11 cleanly with their dominant hand on the first afternoon and cannot do it at all with the other one. That is why CM-N is six steps long. A short sequence run many times gives the weaker hand the repetitions it needs, where a long sequence would simply let the Saberist hide the off hand behind the strong one and never fix it. If the off-hand strikes in this movement look worse than the strong-hand strikes, the movement is working — that gap is what it exists to close.
 
-The transfer at step 4 is where those two halves meet. `CW - L>R` is a clockwise spin that hands the attack from the left saber to the right, and it is not decoration between beats. It is a beat in its own right, with nothing written for Saberist B against it, because a transfer takes time and the notation says so honestly rather than pretending the second saber arrives for free. Learn where both blades are throughout that spin before running it against a partner — one of them is travelling behind the Saberist's own line of sight.
+The transfer at step 4 is where those two halves meet. `S CW` is a clockwise spin that hands the attack from the left saber to the right, and it is not decoration between beats. It is a beat in its own right, with nothing written for Saberist B against it, because a transfer takes time and the notation says so honestly rather than pretending the second saber arrives for free. Learn where both blades are throughout that spin before running it against a partner — one of them is travelling behind the Saberist's own line of sight.
 
 For Saberist B the difficulty is that the attack can come from either side. Against a single saber, a defender learns the shape of an opponent's approach — where the blade lives, which shoulder the attacks fall from — and reads the next attack partly from habit. A dual wielder removes that. The `11` at step 1 and the `11` at step 5 are the same line and the same number, and they arrive from different hands. Saberist B has to parry the blade rather than the pattern, which is a harder thing and the reason the single-saber role in this movement is not the easy one.
 
@@ -69,7 +69,7 @@ Hold one in each hand and strike the four lines the movement uses — 11, 3, 7 a
 
 ### Phase 2: The transfer
 
-Practise `CW - L>R` on its own, without a partner.
+Practise `S CW` on its own, without a partner.
 
 The spin passes the attack from the left saber to the right, and both blades are moving while it happens. Take it at walking speed until the Saberist knows where each blade is at every point in the turn, and can arrive from it ready to strike rather than ready to recover.
 
