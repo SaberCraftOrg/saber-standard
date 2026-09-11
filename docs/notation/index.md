@@ -182,7 +182,7 @@ Moving to the next stage means becoming part of the community. This is about bui
 As a Saberist, you learn the system, memorize the Choreography Movements, then build your own choreographies and a community to share them with.
 
 - Continue to the next lesson: [CM-B](../core/core-library.md)
-- Browse the full catalog at the [CM Series Catalog](https://sabercraft.org/cm-series-catalog/)
+- Browse the full catalog at the [CM Series Catalog](../core/cm-catalog.md)
 - See the [Downloads](../downloads.md) page for the instructional guide
 
 ## What notation does not replace
