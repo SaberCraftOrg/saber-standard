@@ -18,7 +18,7 @@ Parking is free on-site.
 
 Classes run on a recurring but not fixed cadence, so check the live schedule rather than assuming a weekly slot:
 
-- **[Upcoming classes — Google Calendar](https://calendar.google.com/calendar/u/0?cid=MHQ2Nmg2MXRvOXM3ZnNjbzEzc2g1Ym4xYmdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)** — the source of truth for dates and times
+- **[Upcoming classes — MDPLS library events](https://mdpls.org/events?d=2026-09-11&term=sabercraft&l=Westchester+Library+Health+and+Wellness+Information+Center&r=thismonth)** — the source of truth for dates and times
 - **[Follow on Facebook](https://www.facebook.com/sabercraft.org/)** for class announcements
 - Class is free; donations are welcome and fund the program — **[Donate](https://fundraising.fracturedatlas.org/sabercraft/general_support)**
 - If a date is full, **[join the waitlist](https://forms.gle/nifK7xqoWKuRxTLr5)**
@@ -38,10 +38,10 @@ Classes run on a recurring but not fixed cadence, so check the live schedule rat
 1 to 1.5 hours, with a few short breaks throughout: meditation, instruction, drills and practice, then a group photo.
 
 **Do I need my own saber?**
-No — a loaner is included with your RSVP. See [what saber to buy or bring](https://sabercraft.org/what-saber-should-i-buy-or-bring/) if you want your own.
+No — a loaner is included with your RSVP. See [what saber to buy or bring](what-saber-to-buy.md) if you want your own.
 
 **Is this class for me?**
-Classes are built for complete beginners through returning students alike. If you're unsure, the [is this class for me?](https://sabercraft.org/who-is-this-class-for/) page walks through what to expect.
+Classes are built for complete beginners through returning students alike. If you're unsure, [is this class for me?](is-this-class-for-me.md) walks through what to expect.
 
 ---
 

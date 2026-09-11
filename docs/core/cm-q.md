@@ -17,34 +17,47 @@ CM-Q runs twenty steps, written in two tables read in order.
 !!! note "Wide tables"
     The tables below are wide. On a phone, turn the device landscape; either table can also be scrolled sideways.
 
-!!! warning "Three symbols below aren't in the Notation Legend yet"
-    `CW:L>R`, `CCW:R>L`, and `Bend Arm Back` appear in this table but have no confirmed entry on the [Notation Legend](../notation/legend.md). They're left as written below rather than guessed at. Once their meaning is confirmed they should be added to the Legend and this note removed.
-
 **Part 1**
 
 | Player | S1 | S2 | S3 | S4 | S5 | S6 | S7 | S8 | S9 | S10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | Lumen 1 | 12 | 1 | 9 | 5 | | St-B | Bl-3 | | 3P | |
-| Lumen 2 | 12P | R-1P | L-9P | R-5P | CW:L>R | L-3C+R-9C | L-12C | CCW:R>L | R-3 | CCW:R>L |
+| Lumen 2 | 12P | R-1P | L-9P | R-5P | S CW | L-3C+R-9C | L-12C | S CCW | R-3 | S CCW |
 
 **Part 2**
 
 | Player | S11 | S12 | S13 | S14 | S15 | S16 | S17 | S18 | S19 | S20 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | Lumen 1 | 5P | St-B | Duck | 3PX | Grab | Bend Arm Back | | | | |
-| Lumen 2 | L-5 | CW:R>L | L-11+R-11 | L-3X | 12 | Locked | | | | |
+| Lumen 2 | L-5 | S CW | L-11+R-11 | L-3X | 12 | Locked | | | | |
 
 Read down each column as usual.
 
+- **`S CW` and `S CCW` are spins**, per the [Notation Legend](../notation/legend.md#body-and-movement-symbols) — clockwise (left shoulder toward right) and counter clockwise (right shoulder toward left). Lumen 2 spins three times in Part 1 (S5, S8, S10) and once more in Part 2 (S12), turning between blades while the sequence keeps moving.
 - **Lumen 2's cells are split by blade.** `L-` marks the left saber, `R-` the right. At S6, `L-3C+R-9C` is both blades completing at once, on different lines — left to the 3-o'clock target, right to the 9. At S13, `L-11+R-11` is both blades attacking the same 11-o'clock line together.
 - **`C` reads as complete** — the same symbol as `©` elsewhere in the library, written here without the character. `L-3C+R-9C` and `L-12C` are both completes.
 - **`Bl-3` is a blend to the 3-o'clock line**, per the `Bl-` modifier on the [Notation Legend](../notation/legend.md#notation-modifiers).
 - **`X` locks, and Part 2 ends on one.** `3PX` at S14 for Lumen 1 and `L-3X` for Lumen 2 both lock the blade; Lumen 2's final cell, `Locked`, confirms the sequence closes bound rather than resetting to guard.
 - **S17–S20 are blank for both Lumens.** The sequence resolves at S16 — sixteen live steps, not twenty.
 
+## Inspiration Video
+
+This movement is built from a real filmed duel, not a general theme. Compare the notation to the source fight below.
+
+[![CM-Q inspiration: Ahsoka vs. Anakin](https://img.youtube.com/vi/XdUm1bP8fV0/hqdefault.jpg){ width="220" }](https://youtu.be/XdUm1bP8fV0?t=108 "Watch the Ahsoka vs. Anakin scene CM-Q is drawn from")
+
+Select the thumbnail to watch the scene. CM-Q covers roughly 1:51 to 2:09 of the fight.
+
 ## Telegraph
 
-Not yet confirmed. The captured source material for this page didn't carry a telegraph caption — flag the correct call with whoever's confirming the symbols above, and it can be added here.
+**Lumen 1 (single saber) points the saber tip down at 45°. Lumen 2 (dual-wielding) draws both sabers.**
+
+![CM-Q telegraph — Lumen 1 points the saber tip down at 45°, Lumen 2 draws both sabers](https://sabercraft.org/wp-content/uploads/2026/05/Screenshot-2026-05-18-103953-300x193.jpg){ width="300" }
+
+The telegraph is the silent signal that calls CM-Q before an exchange begins. See [LUMINA Games](../games/index.md) for how telegraphs are used in play.
+
+!!! note "Image still hosted on sabercraft.org"
+    The telegraph photo above is hotlinked from the WordPress site. It should be pulled down and committed to `assets/images/cm/` as a proper site asset before sabercraft.org is retired — flagging rather than doing it silently, since I can't reach that domain from this sandbox to fetch and save it directly.
 
 ## Purpose
 
@@ -71,6 +84,6 @@ Once both Lumens are confident in their own line, run Part 1 and Part 2 together
 
 ## Teaching note
 
-Confirm `CW:L>R`, `CCW:R>L`, and `Bend Arm Back` with G.C. Christopher or Tim Lynch before teaching this movement from notation alone — everything else on this page is written from a verified source, but those three read from the table without a confirmed definition, and CM-Q is a dual-wielding sequence where a wrong guess about a hand-to-hand transition is a safety issue, not just a notation gap.
+`Bend Arm Back` at S16 is written in the lesson's own shorthand rather than a standard Legend symbol — the demonstration video shows the beat, the way `Drama` and `9 BB` do for CM-P. Since CM-Q is a dual-wielding sequence, walk that beat from video first rather than guessing the arm position from the name alone.
 
 Continue to **[CM-R](cm-r.md)**, or return to the [Extended Library](extended-library.md).
