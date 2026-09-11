@@ -11,8 +11,8 @@ These terms were settled by formal architecture decisions. Never rename, "correc
 - **LUMINA Games** — the optional game/scoring layer (Duels and Duets), documented under `docs/games/`. This keeps the LUMINA name permanently. Do not rename it to "SaberCraft Games."
 - **Lumina Federation LLC** — the legal entity. Never alter, rebrand, or expand this name.
 - **Saberist** — the general term for any practitioner of the Saber Standard. Use this everywhere a practitioner is referenced.
-- **Lumen / Lumens** — refers ONLY to players within LUMINA Games. Never use it as a general practitioner term.
-- **CM** — short for **Choreography Movement**. Movements are identified by CM codes (CM-A, CM-B, ...). The overview page at `docs/core/index.md` uses the public-facing heading "Choreography Movements (CM)", and the nav group is labelled "Choreographies". New students are directed to CM-A through CM-E first; the full catalog lives at https://sabercraft.org/cm-series-catalog/.
+- **Lumen / Lumens** — refers ONLY to players within LUMINA Games. Never use it as a general practitioner term. In particular, CM lesson pages label the two roles **Saberist A** and **Saberist B** — never "Lumen 1"/"Lumen 2", even for a dual-wielding movement. A CM page may still link to LUMINA Games where it discusses the game layer, such as a telegraph.
+- **CM** — short for **Choreography Movement**. Movements are identified by CM codes (CM-A, CM-B, ...). The overview page at `docs/core/index.md` uses the public-facing heading "Choreography Movements (CM)", and the nav group is labelled "Choreographies". New students are directed to CM-A through CM-E first; the full catalog lives in the repo at `docs/core/cm-catalog.md`. It was previously hosted at https://sabercraft.org/cm-series-catalog/ — that link has been retired from the docs, so do not reintroduce it.
 - **SaberCraft** (alone) — the founding school and community at https://sabercraft.org. When contrasting the framework with the school, write "the Saber Standard" for the framework, never bare "SaberCraft." Pages such as `faq.md`, `for-schools.md`, and `standard.md` deliberately contrast the two — do not "deduplicate" them.
 
 ## Technical exceptions
@@ -23,7 +23,7 @@ These terms were settled by formal architecture decisions. Never rename, "correc
 ## Site and URL conventions
 
 - Public site: https://standard.sabercraft.org (GitHub Pages, DNS via QUIC.cloud CNAME `standard` → `luminafederation.github.io`).
-- https://sabercraft.org is the school/community site (WordPress) — a different property. Do not point framework doc links at it except where a page intentionally references the school (e.g., the CM catalog link above).
+- https://sabercraft.org is the school/community site (WordPress) — a different property. Do not point framework doc links at it except where a page intentionally references the school. Pages that document the school itself — `classes.md`, `what-saber-to-buy.md`, `is-this-class-for-me.md` — live in this repo rather than linking out to their WordPress originals.
 - The stale domain `lumina.sabercraft.org` is reserved for LUMINA Games. Do not use it in framework documentation.
 - Diagrams for targets, attacks, and parries live in the repo as committed images, and every diagram block is wrapped in `<div class="diagram-table" markdown>`. Three distinct layouts are in use — preserve whichever one a page already uses:
     - **Target overview trio** (`targets-overview-1/2/3.webp`) — a single three-across row of `{ width="200" }` thumbnails, each wrapped in a `.diagram-zoom` link to the full-size image, with bold inline captions and a closing "Select any diagram to open it full size in a new tab." line. The same block appears on `notation/index.md` and `notation/targets.md`; keep the two identical. These were previously full-width `<figure>` elements and are deliberately no longer laid out that way.
