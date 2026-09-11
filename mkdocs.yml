@@ -80,6 +80,7 @@ nav:
   - Home: index.md
   - Learn:
       - Start Here / Beginner Path: start-here.md
+      - Live Classes: classes.md
       - Notation Overview: notation/index.md
       - Targets: notation/targets.md
       - Attacks: notation/attacks.md

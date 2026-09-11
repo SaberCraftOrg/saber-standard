@@ -14,7 +14,7 @@ hide:
 
 <div class="lumina-actions" markdown>
 [Explore Notation](notation/index.md){ .lumina-button .lumina-button--primary }
-[Live Classes](https://sabercraft.org/classes/){ .lumina-button .lumina-button--secondary }
+[Live Classes](classes.md){ .lumina-button .lumina-button--secondary }
 [Download Guide](assets/downloads/SaberCraft-Notation-System-CM-Core-Worksheet.pdf){ .lumina-button .lumina-button--secondary }
 </div>
 </div>
