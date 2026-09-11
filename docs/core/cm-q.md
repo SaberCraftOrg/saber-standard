@@ -52,12 +52,9 @@ Select the thumbnail to watch the scene. CM-Q covers roughly 1:51 to 2:09 of the
 
 **Lumen 1 (single saber) points the saber tip down at 45°. Lumen 2 (dual-wielding) draws both sabers.**
 
-![CM-Q telegraph — Lumen 1 points the saber tip down at 45°, Lumen 2 draws both sabers](https://sabercraft.org/wp-content/uploads/2026/05/Screenshot-2026-05-18-103953-300x193.jpg){ width="300" }
+![CM-Q telegraph — Lumen 1 points the saber tip down at 45°, Lumen 2 draws both sabers](../assets/images/cm/cm-q-telegraph.webp){ width="300" }
 
 The telegraph is the silent signal that calls CM-Q before an exchange begins. See [LUMINA Games](../games/index.md) for how telegraphs are used in play.
-
-!!! note "Image still hosted on sabercraft.org"
-    The telegraph photo above is hotlinked from the WordPress site. It should be pulled down and committed to `assets/images/cm/` as a proper site asset before sabercraft.org is retired — flagging rather than doing it silently, since I can't reach that domain from this sandbox to fetch and save it directly.
 
 ## Purpose
 
