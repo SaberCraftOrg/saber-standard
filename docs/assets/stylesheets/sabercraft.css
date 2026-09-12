@@ -791,3 +791,46 @@ html {
     column-count: 2;
   }
 }
+
+/* Phone layout for the hero.
+   The desktop composition is deliberately untouched: every rule below is
+   scoped to the phone breakpoint, the headline size included. Widening the
+   clamp's middle term where it is declared would also grow the headline on
+   tablets and laptops, which is not what needs fixing.
+
+   Three things go wrong at phone widths with the desktop values. The 2rem
+   side padding spends a quarter of the screen; the clamp's 2.4rem floor
+   pins the headline at 48px, wider than the column it sits in, and the
+   hero's own `overflow: hidden` then crops it mid-word; and the three
+   actions each wrap onto two lines. */
+@media screen and (max-width: 44.9375em) {
+  .lumina-hero {
+    padding: 2.5rem 1.25rem;
+    border-radius: 0.9rem;
+  }
+
+  .lumina-hero h1 {
+    /* Here the vw term governs, so the headline scales with the screen and
+       "Saber Standard" sets whole. The ceiling matches what the desktop
+       rule yields at this breakpoint, so the size is continuous across it. */
+    font-size: clamp(1.6rem, 9vw, 2.5rem);
+    overflow-wrap: break-word;
+  }
+
+  .lumina-hero__subtitle {
+    margin-top: 1rem;
+    font-size: 1rem;
+  }
+
+  /* Three pill buttons have no room to sit side by side, and wrapping them
+     mid-label reads as three ragged blocks. Each takes the column instead. */
+  .lumina-actions {
+    flex-direction: column;
+    align-items: stretch;
+    margin-top: 1.25rem;
+  }
+
+  .lumina-button {
+    text-align: center;
+  }
+}
