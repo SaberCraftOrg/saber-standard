@@ -9,7 +9,7 @@ on:
 
 jobs:
   claude:
-      if: (contains(github.event.comment.body, '@claude') || contains(github.event.issue.body, '@claude')) && contains(fromJSON('["OWNER", "MEMBER", "COLLABORATOR"]'), github.event.comment.author_association || github.event.issue.author_association)
+    if: (contains(github.event.comment.body, '@claude') || contains(github.event.issue.body, '@claude')) && contains(fromJSON('["OWNER", "MEMBER", "COLLABORATOR"]'), github.event.comment.author_association || github.event.issue.author_association)
     runs-on: ubuntu-latest
     permissions:
       contents: write
