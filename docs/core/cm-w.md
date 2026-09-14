@@ -8,7 +8,13 @@ CM-W interprets Diana's training bout against Antiope in Wonder Woman.
 
 It is the longest movement in the [Extended Library](extended-library.md) at thirty-one steps, and the only one that puts unarmed strikes in among the blade work. A back kick, a front kick and a punch are written as cells, on their own beats, in the same rows as the attacks — because the fight it comes from is a training bout between two people who are not only using weapons.
 
-CM-W was notated by Desso and Anna Faulkner of Gulf Coast Saber Training.
+<div class="contributor-logo">
+  <a href="https://www.facebook.com/gulfcoastlightsabertraining/" title="Gulf Coast Saber Training on Facebook">
+    <img src="../../assets/images/community/gulf-coast-saber-training.webp" alt="Gulf Coast Saber Training" width="200" height="200" loading="lazy">
+  </a>
+</div>
+
+CM-W was notated by Desso and Anna Faulkner of [Gulf Coast Saber Training](https://www.facebook.com/gulfcoastlightsabertraining/), who practise in Pensacola, Florida. More of their notation is in the [Community Library](community-library.md), where their two restyled readings of CM-A are written out in full.
 
 ## Notation
 
