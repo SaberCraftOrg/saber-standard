@@ -50,8 +50,10 @@ This repo includes a GitHub Actions workflow that publishes the site to GitHub P
 
 Before publishing, confirm:
 
-- `repo_url` and `repo_name` in `mkdocs.yml` reference `LuminaFederation/sabercraft-standard`
 - `docs/CNAME` contains `standard.sabercraft.org`
+- `repo_url`, `repo_name`, and `edit_uri` in `mkdocs.yml` stay commented out, as
+  does the GitHub entry under `extra.social`. They are deliberately disabled so
+  the published site carries no link back to this repository.
 
 ## Contributing
 

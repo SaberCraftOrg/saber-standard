@@ -3,9 +3,13 @@ site_url: https://standard.sabercraft.org/
 site_description: A saber choreography standard for recording, teaching, sharing, and safely performing choreographed saber combat.
 site_author: SaberCraft.org
 
-repo_name: SaberCraft/saber-standard
-repo_url: https://github.com/SaberCraftOrg/saber-standard
-edit_uri: edit/main/docs/
+# The repository is not linked from the site. Restoring these three lines brings
+# back the header GitHub link. The per-page edit/view actions do not return
+# with them: content.action.edit and content.action.view were removed
+# separately because their floats broke the homepage hero on a phone.
+# repo_name: SaberCraft/saber-standard
+# repo_url: https://github.com/SaberCraftOrg/saber-standard
+# edit_uri: edit/main/docs/
 
 theme:
   name: material
@@ -68,9 +72,9 @@ extra:
     - icon: fontawesome/solid/globe
       link: https://sabercraft.org/
       name: SaberCraft
-    - icon: fontawesome/brands/github
-      link: https://github.com/SaberCraftOrg/saber-standard
-      name: Saber Standard on GitHub
+    # - icon: fontawesome/brands/github
+    #   link: https://github.com/SaberCraftOrg/saber-standard
+    #   name: Saber Standard on GitHub
 
 copyright: Copyright &copy; Lumina Federation LLC. SaberCraft.org is the founding school/community of the Saber Standard.
 
