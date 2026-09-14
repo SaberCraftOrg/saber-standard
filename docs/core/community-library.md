@@ -2,7 +2,14 @@
 
 The Community Library holds movements developed and contributed by Saberists, schools, and clubs outside the founding Core and Extended libraries. Community movements are credited to their contributing school or individual. Over time, a movement here may be promoted into the Extended or Core libraries.
 
-No movements have been submitted to the Community Library yet.
+## Community Libraries
+
+Each school contributes under its own prefix, so a movement's code carries its origin with it. Everything below is written in Saber Standard Notation, which is what lets one school read another's work without adopting its curriculum.
+
+| Movement | Contributor | Focus | Reference |
+|---|---|---|---|
+| **[GCM-A-S — Swashbuckler Style](community/gulf-coast-saber-training.md#gcm-a-s-swashbuckler-style)** | Gulf Coast Saber Training | CM-A with the attack changing hands every two steps, run as twelve | Full written notation on this site |
+| **[GCM-A-L — Longsword Style](community/gulf-coast-saber-training.md#gcm-a-l-longsword-style)** | Gulf Coast Saber Training | CM-A carried with a blade lock on the 3 line | Full written notation on this site |
 
 ## Contributing a movement
 
