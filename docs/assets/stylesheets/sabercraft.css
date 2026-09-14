@@ -834,3 +834,35 @@ html {
     text-align: center;
   }
 }
+
+/* A contributing school's logo belongs beside the credit that names them, so
+   the mark and the attribution read as one block rather than two stacked ones.
+   The width matches the asset's 2x source (400px stored, 200px shown). */
+.md-typeset .contributor-logo {
+  margin: 0 0 1rem;
+  text-align: center;
+}
+
+.md-typeset .contributor-logo img {
+  width: 200px;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Headings after the credit start a new section, so they must not ride up
+   alongside the float when the intro is short. */
+.md-typeset .contributor-logo ~ h2 {
+  clear: both;
+}
+
+/* Float only where the text has room to sit beside it. Below this width a
+   200px logo leaves the paragraph about 150px of column, which reads as a
+   ragged stack of two- and three-word lines, so the logo centres above the
+   text instead. The breakpoint mirrors the phone rules further up the file. */
+@media screen and (min-width: 45em) {
+  .md-typeset .contributor-logo {
+    float: left;
+    margin: 0.25rem 1.5rem 0.75rem 0;
+    text-align: left;
+  }
+}

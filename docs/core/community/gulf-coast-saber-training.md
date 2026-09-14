@@ -1,6 +1,6 @@
 # CM Styles — Gulf Coast Saber Training
 
-<div style="text-align:center;margin:0 0 1.6rem;">
+<div class="contributor-logo">
   <a href="https://www.facebook.com/gulfcoastlightsabertraining/" title="Gulf Coast Saber Training on Facebook">
     <img src="../../../assets/images/community/gulf-coast-saber-training.webp" alt="Gulf Coast Saber Training" width="200" height="200" loading="lazy">
   </a>
