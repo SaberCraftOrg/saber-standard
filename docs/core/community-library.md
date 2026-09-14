@@ -8,8 +8,8 @@ Each school contributes under its own prefix, so a movement's code carries its o
 
 | Movement | Contributor | Focus | Reference |
 |---|---|---|---|
-| **[GCM-A-S — Swashbuckler Style](community/gulf-coast-saber-training.md#gcm-a-s-swashbuckler-style)** | Gulf Coast Saber Training | CM-A with the attack changing hands every two steps, run as twelve | Full written notation on this site |
-| **[GCM-A-L — Longsword Style](community/gulf-coast-saber-training.md#gcm-a-l-longsword-style)** | Gulf Coast Saber Training | CM-A carried with a blade lock on the 3 line | Full written notation on this site |
+| **[GCM-A-S — Swashbuckler Style](community/gulf-coast-saber-training.md#gcm-a-s-swashbuckler-style)** | [Gulf Coast Saber Training](https://www.facebook.com/gulfcoastlightsabertraining/) | CM-A with the attack changing hands every two steps, run as twelve | Full written notation on this site |
+| **[GCM-A-L — Longsword Style](community/gulf-coast-saber-training.md#gcm-a-l-longsword-style)** | [Gulf Coast Saber Training](https://www.facebook.com/gulfcoastlightsabertraining/) | CM-A carried with a blade lock on the 3 line | Full written notation on this site |
 
 ## Contributing a movement
 

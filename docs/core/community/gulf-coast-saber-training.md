@@ -1,5 +1,11 @@
 # CM Styles — Gulf Coast Saber Training
 
+<div style="text-align:center;margin:0 0 1.6rem;">
+  <a href="https://www.facebook.com/gulfcoastlightsabertraining/" title="Gulf Coast Saber Training on Facebook">
+    <img src="../../../assets/images/community/gulf-coast-saber-training.webp" alt="Gulf Coast Saber Training" width="200" height="200" loading="lazy">
+  </a>
+</div>
+
 Gulf Coast Saber Training restyled [CM-A](../cm-a.md) into two variations, each carrying the movement in the manner of a different weapon tradition. The target lines stay recognisable; what changes is how the blade travels between them and how long the two Saberists stay in contact.
 
 These were proposed by Desso Faulkner and the Gulf Coast Saber Training team, who practise in Pensacola, Florida. Their [Facebook page](https://www.facebook.com/gulfcoastlightsabertraining/) has more about the group and how to train with them.
